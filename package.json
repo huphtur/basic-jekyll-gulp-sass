@@ -1,0 +1,23 @@
+{
+  "name": "basic-jekyll-gulp-sass",
+  "version": "1.0.0",
+  "description": "Quite possibly the most basic Jekyll + Gulp setup everrr",
+  "keywords": [
+    "Jekyll",
+    "Gulp",
+    "Sass"
+  ],
+  "author": "M. Appelman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huphtur/basic-jekyll-gulp-sass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huphtur/basic-jekyll-gulp-sass/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
